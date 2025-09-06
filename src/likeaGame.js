@@ -1,3 +1,6 @@
+// Olá, esse foi um desafio para uma vaga de trabalho, o arquivo original é abrigo-animais.js. Esse foi feito pensando em interagir com o usuario.
+// Usuario deve baixar e pode rodar com o node.js ou no terminal do SO(cmd ou powerShell para windows)
+
 const prompt = require('prompt-sync')({ sigint: true });
 
 // abrigo
@@ -129,5 +132,6 @@ do {
 
     
 } while (parar == "no");
+
 
 // abrigo.js fim
